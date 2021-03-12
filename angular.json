@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bizbloqz-ui"
+    }
+  },
+  "defaultProject": "bizbloqz-ui",
+  "cli": {
+    "analytics": false
+  }
 }
